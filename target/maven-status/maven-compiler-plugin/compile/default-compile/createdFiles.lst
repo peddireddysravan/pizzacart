@@ -1,0 +1,6 @@
+bean\RegisterDAO.class
+bean\User.class
+LoginCheck\Check.class
+bean\ConnectionProvider.class
+bean\Provider.class
+LoginCheck\UserInfo.class
