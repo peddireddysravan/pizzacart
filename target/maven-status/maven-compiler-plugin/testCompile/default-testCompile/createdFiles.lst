@@ -1,4 +1,2 @@
 bean\ConnectionProviderTest.class
-bean\UserTest.class
-LoginCheck\CheckTest.class
 bean\RegisterDAOTest.class
